@@ -18,6 +18,7 @@ namespace ConsoleApp1
             int var2 == 4;
             Console.Write("");
             Console.Read();
+            //sasdsadsa
 
         }
     }
