@@ -15,6 +15,8 @@ namespace ConsoleApp1
             // changes comment
             // change coric
             Console.Write("");
+            Console.Read();
+
         }
     }
 }
