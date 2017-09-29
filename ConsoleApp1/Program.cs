@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            var2 = 2;
+            int var2 = 6;
             // changes comment
             // change coric
             Console.Write("");
