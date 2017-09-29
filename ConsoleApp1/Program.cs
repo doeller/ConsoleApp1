@@ -12,9 +12,6 @@ namespace ConsoleApp1
         {
 
             int var2 = 6;
-            // changes comment
-            // change coric
-            var2 == 3;
             Console.Write("");
             Console.Read();
 
