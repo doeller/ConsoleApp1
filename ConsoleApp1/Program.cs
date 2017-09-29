@@ -13,6 +13,7 @@ namespace ConsoleApp1
 
             var2 = 2;
             // changes comment
+            // change coric
             Console.Write("");
             Console.Read();
 
