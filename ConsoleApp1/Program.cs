@@ -10,7 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            var = 1; 
+            var = 1;
+            // changes comment
+            Console.Write("");
         }
     }
 }
