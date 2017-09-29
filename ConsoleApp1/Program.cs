@@ -14,6 +14,8 @@ namespace ConsoleApp1
             var2 = 2;
             // changes comment
             Console.Write("");
+            Console.Read();
+
         }
     }
 }
